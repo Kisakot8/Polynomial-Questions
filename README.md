@@ -6,4 +6,4 @@ The 2 types of question are (where f(x) is the cubic polynomial):
   - This question has a part b.: Fully factorise f(x).
 - Prove (ax-b) is NOT a factor of f(x), where f(x).
 
-This is meant to be done with the __long division method__ and _NOT the GCM_ (greatest common factor) method, although the latter may still work by sheer randomness.
+This is meant to be done with the __long division method__ and _NOT the GCM (greatest common factor) method_, although the latter may still work by sheer randomness.
